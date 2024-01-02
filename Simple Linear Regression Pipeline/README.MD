@@ -70,4 +70,3 @@ The `DataScienceProject` class is a comprehensive toolkit 🧰 designed for data
 - `yellowbrick`
 ```
 
----
